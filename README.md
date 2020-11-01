@@ -8,3 +8,6 @@ The aim of the project was to present and compare how accepting are certain coun
 
 Grouped by continent, the GAI of 174 countries as recorded in the year 2017 is visualised. 
 The data was retrieved from a **report of the Williams Institute at the UCLA School of Law**. The visualisation was made with the **D3.js** library.
+
+
+![alt text](https://github.com/zalashub/lgbt-gai-data-viz/blob/master/Screenshot%202020-06-18%20at%2010.31.19.png?raw=true "Data Vis screenshot")
